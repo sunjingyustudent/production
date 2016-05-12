@@ -1,4 +1,4 @@
-window.onload=function(){
+/*window.onload=function(){
 	var $id = function(id){return document.getElementById(id);}
     var color_range=$id("color_range");
 	var text_box=$id("test_box");
@@ -32,4 +32,4 @@ window.onload=function(){
 		text_box.style.backgroundColor=variant.color;
 	}
 	
-}
+}*/
